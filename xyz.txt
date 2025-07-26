@@ -1,0 +1,2 @@
+THis is new file xyz 
+# i am in feature 1
