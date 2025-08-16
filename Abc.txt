@@ -1,2 +1,2 @@
-#THIS IS ABC.TXT FILEGIT  hai main branch
-shah rukh khan main branch
+#THIS IS ABC.TXT FILEGIT  hai maitn branch rebase kya hai ?
+shah rukh khan main branch rebase kya hai ?
