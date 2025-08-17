@@ -1,2 +1,2 @@
-i AM IN MAIN BRANCH Abc2.txt
+i AM IN feature2 BRANCH Abc2.txt
 feature2 branch
