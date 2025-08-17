@@ -1,3 +1,2 @@
-#i am in main branch ABC
-second line in main
-third line in main
+#i am in feature branch ABC
+feature1 feature2
